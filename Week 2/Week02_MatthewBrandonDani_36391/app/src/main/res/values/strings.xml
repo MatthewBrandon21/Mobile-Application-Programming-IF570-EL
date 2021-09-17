@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week02_MatthewBrandonDani_36391</string>
+    <string name="angka1">Angka 1:</string>
+    <string name="hintangka1">Masukan angka 1</string>
+    <string name="angka2">Angka 2:</string>
+    <string name="hintangka2">Masukan angka 2</string>
+    <string name="tomboltambah">Tambah</string>
+    <string name="tombolkurang">Kurangi</string>
+    <string name="tombolkali">Kali</string>
+    <string name="tombolbagi">Bagi</string>
+    <string name="hasil">Hasil:</string>
+</resources>

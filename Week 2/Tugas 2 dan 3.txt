@@ -1,0 +1,30 @@
+2. Pengujian
+
+case 1 : app Crash
+case 2 : app Crash
+case 3 : hasil tulisan infinity
+
+solusinya memberikan suatu cara pendeteksian agar angka 1 dan angka 2 tidak boleh kosong atau NULL dan angka 2 tidak boleh bernilai 0. Caranya menggunakan if dengan .isEmpty() dan pengecekan nilai angka 2.
+    protected void hitung(char operator){
+        if(!angka1.getText().toString().isEmpty() && !angka2.getText().toString().isEmpty() && Double.parseDouble(angka2.getText().toString())!= 0){
+            double operand1 = Double.parseDouble(angka1.getText().toString());
+            double operand2 = Double.parseDouble(angka2.getText().toString());
+            double result = 0.0;
+            switch(operator){
+                case('+') : result = operand1 + operand2; break;
+                case('-') : result = operand1 - operand2; break;
+                case('*') : result = operand1 * operand2; break;
+                case('/') : result = operand1 / operand2; break;
+            }
+            hasil.setText(String.valueOf(result));
+        }else if(angka1.getText().toString().isEmpty()){
+            hasil.setText("angka 1 kosong");
+        }else if(angka2.getText().toString().isEmpty()) {
+            hasil.setText("angka 2 kosong");
+        }else if(Double.parseDouble(angka2.getText().toString())== 0) {
+            hasil.setText("Error Pembagian");
+        }
+    }
+
+3. Debugging
+kesimpulan dengan menggunakan fitur debugging dengan meletakan 2 breakpoint yaitu debugging akan tetap berhenti pada breakpoint pertama kali program sampai dan jika kita melakukan resume maka akan berhenti pada breakpoint berikutnya. jika melakukan step into maka akan melakukan fungsi dimana baris code atau statement berada (misal akan melakukan func1(func2())). Dan untuk keluar dari step into dengan cara step out. Namun jika kita memilih step over maka akan berhenti dibaris code berikutnya.
