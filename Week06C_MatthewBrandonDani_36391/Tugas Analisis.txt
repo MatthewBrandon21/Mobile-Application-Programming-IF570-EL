@@ -1,0 +1,1 @@
+Akan dianimasikan suatu animasi dari sebuah pegas dan juga perputaran suatu objek. dimana untuk animasi pegas diperoleh dari springanimation dengan suatu listener touchevent. dan untuk animasi perputaran diperoleh dari FlingAnimation dengan suatu listener touchevent. dimana keduanya juga dapat disetting velocity dan frictionnya.

@@ -1,0 +1,1 @@
+Aplikasi ini akan meminta request permission dari root android untuk dapat memakai resource sebuah hardware kamera untuk mengambil foto dan juga video. dimana kita dapat mengambil foto dan video lalu dapat juga ditampilkan hasilnya dimana akan ada fungsi mediastore untuk mengimpan hasilnya.

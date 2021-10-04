@@ -1,0 +1,1 @@
+Dengan trigger sebuah touch maka akan muncul sebuah lingkaran dengan delay dan durasi tertentu dimana lingkaran tersebut akan membesar lalu mengecil dengan sendirinya. Dan aplikasi ini menggunakan animator set dari android.

@@ -1,0 +1,1 @@
+Dengan trigger sebuah touch maka akan muncul suatu animasi dari looping pergantian suatu urutan gambar. dengan menambahkan sebuah file .xml di res yang merupakan animation list dimana berisi urutan gambar dan durasi setiap gambar yang akan dimunculkan maka kita dapat membuat suatu animasi dari sequence gambar.

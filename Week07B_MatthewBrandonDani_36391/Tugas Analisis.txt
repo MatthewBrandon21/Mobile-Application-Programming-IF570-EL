@@ -1,0 +1,1 @@
+Program ini merupakan gallery sebuah video yang sudah disimpan pada folder raw dimana dapat melakukan sebuah playback pada video yang dipilih dan juga ditampilkan keterangan dan videonya. Dimana untuk object daftar videonya disimpan pada suatu linked list.

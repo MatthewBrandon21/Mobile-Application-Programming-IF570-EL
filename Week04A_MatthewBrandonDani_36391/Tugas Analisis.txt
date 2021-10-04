@@ -1,0 +1,2 @@
+Pada aplikasi ini bisa mengirimkan data berupa text dari main activity ke activity dua dan juga sebaliknya dengan menggunakan class intent (Passing data antar intent).
+Aplikasi ini juga bisa membuka sebuah browser yang mengarah pada suatu website tertentu, dengan default jika kosong akan mengarah ke umn.ac.id

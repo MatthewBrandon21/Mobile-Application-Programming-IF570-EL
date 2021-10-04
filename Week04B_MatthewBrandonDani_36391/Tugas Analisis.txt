@@ -1,0 +1,1 @@
+Pada aplikasi ini berhasil melakukan perpindahan antar activity dengan menggunakan tampilan fragment dan menggunakan intent
