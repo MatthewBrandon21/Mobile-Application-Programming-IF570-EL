@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/drawable/button_rounded.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/drawable/button_rounded_purple_200.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/drawable/button_rounded_purple_700.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/drawable/form_rounded_green.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/drawable/profile_rounded.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/library_page.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/list_sfx.xml" value="0.1" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/login_page.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/profile.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/layout/sfx_detail.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/UTS_MatthewBrandonDani_36391/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS_MatthewBrandonDani_36391</string>
+    <string name="app_title">SFX Library and Previewer</string>
+    <string name="profile">Profile</string>
+    <string name="library">Library</string>
+    <string name="keluar">Keluar</string>
+    <string name="myname">Matthew Brandon Dani</string>
+    <string name="nim">00000036391</string>
+    <string name="matakuliah">IF 570 - EL</string>
+    <string name="referensi">REFERENSI</string>
+    <string name="next">NEXT</string>
+    <string name="loginpage">LOGIN PAGE</string>
+    <string name="play">PLAY SFX</string>
+</resources>
